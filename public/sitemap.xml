@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://toponlinecasino-australia.com/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Top Casinos Section -->
+  <url>
+    <loc>https://toponlinecasino-australia.com/#top-casinos</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Content Sections -->
+  <url>
+    <loc>https://toponlinecasino-australia.com/#what-are-online-casinos</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://toponlinecasino-australia.com/#payment-methods</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://toponlinecasino-australia.com/#responsible-gaming</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
